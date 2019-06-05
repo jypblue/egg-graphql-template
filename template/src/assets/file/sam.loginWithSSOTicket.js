@@ -1,0 +1,1 @@
+window._APIMAP["sam.loginWithSSOTicket"] = {"roles":[],"security_type":"Anonym","required":{"SSOTicket":"string"},"optional":{}}

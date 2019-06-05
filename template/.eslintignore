@@ -1,0 +1,5 @@
+/build/
+/dist/
+/deploy/
+/*.js
+/src/assets/file/

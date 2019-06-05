@@ -1,0 +1,15 @@
+@import '@/styles/variables.scss';
+@import './sidebar.scss';
+
+// 顶部head
+.yit-head {
+  position: relative;
+  height: 50px;
+  line-height: 50px;
+  background-color: $white;
+  border-bottom: solid 1px #e6e6e6;
+}
+.yit-sidebar-toggle {
+  color: $gray;
+}
+.yit-sidebar-toggle i { font-size: 24px;}
