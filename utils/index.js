@@ -54,9 +54,9 @@ To get started:
     )}npm run dev`
   )}
 
-Documentation can be found at http://gitlab.yit.com/wangzhaoxiong/boss-single-template.git
+Documentation can be found at https://github.com/jypblue/template__egg-graphql.git
 
-# ${green('BOSS单页模板的详细须知请阅读项目文件中的 README.md')}
+# ${green('egg-graphql模板的详细须知请阅读项目文件中的 README.md')}
 
 # ======================================END=====================================
 `
